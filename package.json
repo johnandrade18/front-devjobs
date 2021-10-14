@@ -5,9 +5,9 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "startdev": "nuxt start",
+    "start": "nuxt start",
     "generate": "nuxt generate",
-    "start": "concurrently \" npm run build\" \"npm run startdev\""
+    "startdev": "concurrently \" npm run build\" \"npm run startdev\""
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
