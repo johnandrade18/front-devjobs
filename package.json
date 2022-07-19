@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/auth-next": "5.0.0-1624817847.21691f1",
-    "concurrently": "^6.3.0",
+    "concurrently": "^7.3.0",
     "core-js": "^3.15.1",
     "jquery": "^3.6.0",
     "nuxt": "^2.15.7",
